@@ -10,8 +10,4 @@
 
 @interface MainViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>
 @property(retain,nonatomic)NSArray *list;
-
-@property(retain,nonatomic)NSArray *list1;
-@property(retain,nonatomic)NSArray *list2;
-@property(retain,nonatomic)NSArray *list3;
 @end
