@@ -35,7 +35,7 @@
     myTable.dataSource =self;
     [self.view addSubview:myTable];
     
-    
+    UIView *view =  [[UIView alloc] init];
 }
 
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
