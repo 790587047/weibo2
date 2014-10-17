@@ -22,6 +22,8 @@
     MainViewController *mainVC = [[MainViewController alloc] init];
     self.window.rootViewController = mainVC;
     
+    
+    int f = 10000;
     return YES;
 }
 
