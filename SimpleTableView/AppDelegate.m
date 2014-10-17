@@ -10,7 +10,8 @@
 
 @implementation AppDelegate
 @synthesize a;
-@synthesize b;
+@synthesize b,d;
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
