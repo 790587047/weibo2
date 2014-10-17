@@ -12,7 +12,7 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-@property(assign)int a;
-@property(assign)int b;
-@property(assign)int d;
+//@property(assign)int a;
+//@property(assign)int b;
+//@property(assign)int d;
 @end
