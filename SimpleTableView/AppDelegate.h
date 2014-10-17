@@ -13,4 +13,5 @@
 
 @property (strong, nonatomic) UIWindow *window;
 @property(assign)int a;
+@property(assign)int b;
 @end
