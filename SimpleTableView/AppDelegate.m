@@ -9,8 +9,8 @@
 #import "AppDelegate.h"
 
 @implementation AppDelegate
-@synthesize a;
-@synthesize b,d;
+//@synthesize a;
+//@synthesize b;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
